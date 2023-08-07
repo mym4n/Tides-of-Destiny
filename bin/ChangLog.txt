@@ -1,0 +1,2 @@
+Version 0.1.3_f pre.alpha
+- fixed stupid fucking movement code bug that I am stupoid and fucking moron
