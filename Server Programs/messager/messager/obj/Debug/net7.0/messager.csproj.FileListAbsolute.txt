@@ -1,0 +1,15 @@
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\bin\Debug\net7.0\messager.exe
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\bin\Debug\net7.0\messager.deps.json
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\bin\Debug\net7.0\messager.runtimeconfig.json
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\bin\Debug\net7.0\messager.dll
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\bin\Debug\net7.0\messager.pdb
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.csproj.AssemblyReference.cache
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.AssemblyInfoInputs.cache
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.AssemblyInfo.cs
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.csproj.CoreCompileInputs.cache
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.dll
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\refint\messager.dll
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.pdb
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\messager.genruntimeconfig.cache
+C:\Users\under\Unity Projects\Tides-of-Destiny\Server Programs\messager\messager\obj\Debug\net7.0\ref\messager.dll
