@@ -320,6 +320,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5122630535717772521, guid: dda0878b1624d97459ea5eaa569e6254, type: 3}
+      propertyPath: m_AssetsPPU
+      value: 58
+      objectReference: {fileID: 0}
     - target: {fileID: 8727311234616880514, guid: dda0878b1624d97459ea5eaa569e6254, type: 3}
       propertyPath: m_Name
       value: Player
@@ -367,6 +371,22 @@ PrefabInstance:
     - target: {fileID: 8727311234616880525, guid: dda0878b1624d97459ea5eaa569e6254, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8727311235965425978, guid: dda0878b1624d97459ea5eaa569e6254, type: 3}
+      propertyPath: m_Size.x
+      value: 0.40534484
+      objectReference: {fileID: 0}
+    - target: {fileID: 8727311235965425978, guid: dda0878b1624d97459ea5eaa569e6254, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.016195886
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075764846331604206, guid: dda0878b1624d97459ea5eaa569e6254, type: 3}
+      propertyPath: orthographic size
+      value: 3.0317252
+      objectReference: {fileID: 0}
+    - target: {fileID: 9075764846331604206, guid: dda0878b1624d97459ea5eaa569e6254, type: 3}
+      propertyPath: m_NormalizedViewPortRect.width
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
