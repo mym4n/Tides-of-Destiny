@@ -7,12 +7,12 @@ public class Parallax : MonoBehaviour
 {
     [SerializeField]
     private float Movepercent = .3f;
-    private Transform camera;
+    private Transform t_camera;
     public bool LockY = false;
     // Start is called before the first frame update
     void Start()
     {
-        camera = GameObject.Find("Player_Camera").transform;
+        t_camera = GameObject.Find("Player_Camera").transform;
     }
 
     // Update is called once per frame
@@ -20,11 +20,11 @@ public class Parallax : MonoBehaviour
     {
         if (LockY)
         {
-            transform.position = new Vector2(camera.position.x * Movepercent, transform.position.y);
+            transform.position = new Vector2(t_camera.position.x * Movepercent, transform.position.y);
         }
         else
         {
-            transform.position = new Vector2(camera.position.x * Movepercent, camera.position.y * Movepercent);
+            transform.position = new Vector2(t_camera.position.x * Movepercent, t_camera.position.y * Movepercent);
         }
     }
 }
